@@ -8,3 +8,4 @@ Stock Market Prediction Web App based on Machine Learning and Sentiment Analysis
 
 # ScreenShot
 
+![stock1](https://user-images.githubusercontent.com/84395319/145261172-a610b8f1-69c7-4808-b427-b3c08df08842.JPG)
